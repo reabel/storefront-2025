@@ -1,0 +1,26 @@
+{
+  "name": "ionic-vue-storefront",
+  "version": "1.0.0",
+  "description": "A storefront application built with Node, Vue, and Ionic.",
+  "author": "Your Name",
+  "license": "MIT",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.0",
+    "@ionic/vue": "^6.0.0",
+    "@ionic/vue-router": "^6.0.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0",
+    "typescript": "^4.0.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-vue": "^7.0.0"
+  }
+}
